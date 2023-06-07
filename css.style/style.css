@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: cursive;
+}
+body{
+    background-color: rgb(47, 43, 43);
+    color: white;
+}
+header{
+    background-color: rgb(97, 97, 97);
+    text-align: center;
+    padding: 15px;
+}
+#massage{
+    text-align: center;
+    font-size: 25px;
+}
+#time-in p{
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 25px;
+}
+#time-in span{
+    color: green;
+}
+#current{
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 40px;
+    display: block;
+}
+.imp{
+    text-align: center;
+}
+#word-input{
+    width: 60%;
+    margin: 0 auto;
+    height: 50px;
+    font-size: 30px;
+}
+.hide h4{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.timer{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.c-body{
+    width: 50%;
+    text-align: center;
+    margin: 50px auto;
+    background-color: rgb(41, 18, 18);
+}
+.c-body h5{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.c-body p{
+    font-size: 18px;
+    padding: 5px;
+}
